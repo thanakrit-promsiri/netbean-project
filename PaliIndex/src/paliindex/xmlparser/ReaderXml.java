@@ -19,68 +19,70 @@ import javax.xml.parsers.DocumentBuilder;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Node;
-import org.w3c.dom.Element;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import org.w3c.dom.NamedNodeMap;
 
 public class ReaderXml {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
         File file = new File("repo");
-        
         String[] list = file.list();
-        for (String string : list) {
-          System.out.println(string);  
-        }
 
+        for (String filename : list) {
+            FileUtil fileUtil = new FileUtil();
+            String reen = fileUtil.getFile("repo/" + filename)
+                    .replaceAll("UTF-16", "UTF-8") //                    .replaceAll("<note>", "{")
+                    //                    .replaceAll("</note>", "}")
+                    ;
+            saveToFile(reen, "repo_tune/" + filename);
+        }
+        file = new File("repo_tune");
+        list = file.list();
+        for (String filename : list) {
+            saveToFile(export(filename), "output/" + filename);
+        }
     }
 
-    public static void export() {
+    public static String rename(String filename) {
+        return filename.replaceAll("", filename);
+    }
 
+    public static String export(String filename) {
+        StringBuilder result = new StringBuilder();
         try {
-
-            File file = new File("repo/vin11t.nrf.xml");
-
+            File file = new File("repo_tune/" + filename);
             DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-
             Document doc = dBuilder.parse(file);
 
-//            System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
             if (doc.hasChildNodes()) {
-
-                printNote(doc.getChildNodes());
-
+                result = printNote(doc.getChildNodes(), "TEI.2");
             }
-
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
+        return result.toString().trim();
 
     }
 
-    private static void printNote(NodeList nodeList) {
-
+    private static StringBuilder printNote(NodeList nodeList, String nodeName) {
+        StringBuilder result = new StringBuilder();
         for (int count = 0; count < nodeList.getLength(); count++) {
 
             Node tempNode = nodeList.item(count);
             // make sure it's element node.
             if (tempNode.getNodeType() == Node.ELEMENT_NODE) {
-
-                // get node name and value
-                System.out.println("\nNode Name =" + tempNode.getNodeName() + " [OPEN]");
-//                System.out.println("Node Value =" + tempNode.getTextContent());
-
-                System.out.println("Node Name =" + tempNode.getNodeName() + " [CLOSE]");
-
+                if (nodeName == tempNode.getNodeName()) {
+                    result.append(tempNode.getTextContent());
+                }
             }
-
         }
-
+        return result;
     }
 
     private static void printAllNote(NodeList nodeList) {
@@ -108,43 +110,33 @@ public class ReaderXml {
                         System.out.println("attr value : " + node.getNodeValue());
 
                     }
-
                 }
                 if (tempNode.hasChildNodes()) {
-
                     // loop again if has child nodes
-                    printNote(tempNode.getChildNodes());
-
+                    printAllNote(tempNode.getChildNodes());
                 }
-                System.out.println("Node Name =" + tempNode.getNodeName() + " [CLOSE]");
-
             }
 
         }
 
     }
 
-    public static String saveToFile(String strText) throws IOException {
-        String strFileName = System.getProperty("user.dir") + File.separator;
-        String strTimestamp = new SimpleDateFormat("MM.dd.yyyy.HH.mm.ss").format(new Date());
-        StringBuilder buf = new StringBuilder();
-        buf.append(strFileName)
-                .append("BTree-")
-                .append(strTimestamp)
-                .append(".txt");
+    public static String saveToFile(String strText, String fileName) {
+        File savedFile = new File(fileName);
+        try {
 
-        strFileName = buf.toString();
-        File savedFile = new File(strFileName);
+            if (!savedFile.exists()) {
+                savedFile.createNewFile();
+            }
 
-        if (!savedFile.exists()) {
-            savedFile.createNewFile();
+            FileWriter fw = new FileWriter(savedFile.getAbsoluteFile());
+            BufferedWriter bw = new BufferedWriter(fw);
+            bw.write(strText);
+            bw.close();
+
+        } catch (IOException ex) {
+            Logger.getLogger(ReaderXml.class.getName()).log(Level.SEVERE, null, ex);
         }
-
-        FileWriter fw = new FileWriter(savedFile.getAbsoluteFile());
-        BufferedWriter bw = new BufferedWriter(fw);
-        bw.write(strText);
-        bw.close();
-
-        return strFileName;
+        return savedFile.getAbsolutePath();
     }
 }
