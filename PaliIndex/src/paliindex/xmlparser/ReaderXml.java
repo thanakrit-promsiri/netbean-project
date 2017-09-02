@@ -31,26 +31,29 @@ public class ReaderXml {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        File file = new File("repo");
-        String[] list = file.list();
-
-        for (String filename : list) {
-            FileUtil fileUtil = new FileUtil();
-            String reen = fileUtil.getFile("repo/" + filename)
-                    .replaceAll("UTF-16", "UTF-8") //                    .replaceAll("<note>", "{")
-                    //                    .replaceAll("</note>", "}")
-                    ;
-            saveToFile(reen, "repo_tune/" + filename);
-        }
-        file = new File("repo_tune");
-        list = file.list();
-        for (String filename : list) {
-            saveToFile(export(filename), "output/" + filename);
-        }
+//        File file;
+//        String[] list;
+////       
+//        file = new File("repo_tune");
+//        list = file.list();
+//        for (String filename : list) {
+//            saveToFile(export(filename), "output/" + filename + ".txt");
+//        }
+        testPrint("vin01m.mul.xml");
     }
 
-    public static String rename(String filename) {
-        return filename.replaceAll("", filename);
+    public static void replaceNote(String filename) {
+//         File file = new File("repo");
+//        String[] list = file.list();
+//
+//        for (String filename : list) {
+//            FileUtil fileUtil = new FileUtil();
+//            String reen = fileUtil.getFile("repo/" + filename,"UTF16")
+//                    .replaceAll("UTF-16", "UTF-8") //                    
+//                    .replaceAll("<note>", "[")
+//                    .replaceAll("</note>", "]");
+//            saveToFile(reen, "repo_tune/" + filename);
+//        }
     }
 
     public static String export(String filename) {
@@ -85,6 +88,23 @@ public class ReaderXml {
         return result;
     }
 
+    public static String testPrint(String filename) {
+        StringBuilder result = new StringBuilder();
+        try {
+            File file = new File("repo_tune/" + filename);
+            DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
+            Document doc = dBuilder.parse(file);
+
+            if (doc.hasChildNodes()) {
+                printAllNote(doc.getChildNodes());
+            }
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+        return result.toString().trim();
+
+    }
+
     private static void printAllNote(NodeList nodeList) {
 
         for (int count = 0; count < nodeList.getLength(); count++) {
@@ -96,7 +116,7 @@ public class ReaderXml {
 
                 // get node name and value
                 System.out.println("\nNode Name =" + tempNode.getNodeName() + " [OPEN]");
-                System.out.println("Node Value =" + tempNode.getTextContent());
+//                System.out.println("Node Value =" + tempNode.getTextContent());
 
                 if (tempNode.hasAttributes()) {
 

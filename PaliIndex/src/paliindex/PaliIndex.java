@@ -133,8 +133,8 @@ class BTIteratorImpl<K extends Comparable, V> implements BTIteratorIF<K, V> {
     @Override
     public boolean item(K key, V value) {
         mBuf.setLength(0);
-        mBuf.append("'").append(key).append("'")
-                .append("  |  ")
+        mBuf.append(key)
+                .append(",")
                 .append(value);
         System.out.println(mBuf.toString());
         /*

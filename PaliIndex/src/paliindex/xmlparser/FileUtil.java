@@ -20,10 +20,10 @@ import java.util.Scanner;
  */
 public class FileUtil {
 
-    public String getFile(String fileName) {
+    public String getFile(String fileName, String charset) {
         StringBuilder strBuilder = new StringBuilder();
         try (BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(fileName),
-                "UTF16"))) {
+                charset))) {
 
             String str;
             while ((str = in.readLine()) != null) {
