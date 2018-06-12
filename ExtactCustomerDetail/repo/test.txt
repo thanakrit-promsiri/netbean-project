@@ -1,0 +1,731 @@
+  S0011       DOSE PHARMACY                                                 PDM-B02     OTC      1											
+      Address  : 292 อาคารเซ็นเตอร์พ้อยท์สยามสแควร์ ถ.พระราม 1       Contact   : คุณจิรวัฒน์ ทฤษฎีรักษ์											
+               : เขตปทุมวัน                                          A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10330                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 085-616-3636                                        Term      :											
+  S0025      ร้าน ก.นครฟาร์มาซี                                             PDM-B02     OTC      1											
+      Address  : 703 ถ.สุทธิสาร                                      Contact   : คุณบรรจบ งามวงศ์สุวรรณ											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-277-3154                                         Term      :											
+  S0026      ร้าน ก.นครฟาร์มาซี                                             PDM-B02     OTC      1											
+      Address  : 703 ถ.สุทธิสาร                                      Contact   : คุณบรรจบ งามวงศ์สุวรรณ											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-277-3154                                         Term      :											
+  S0045      ร้าน กิตติเวชภัณฑ์                                             PDM-B02     OTC      1											
+      Address  : 67/73 ม.7                                           Contact   : คุณเกศสุชา วิมลรัตนกิจ											
+               : แขวงแสมดำ เขตบางขุนเทียน                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10150                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-895-6280                                         Term      :											
+  S0051      ร้าน กุ๊กกิ๊ก                                                              OTC      1				 PDM-B02	  OTC 1						
+      Address  : 30/39-50  ถ.งามวงศ์วาน                              Contact   :											
+               : แขวงบางเขน เขตเมืองนนทบุรี                          A/C No.   : 114110          Ship-Via  :											
+               : นนทบุรี                                             Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-840-6139                                        Term      :											
+  S0054      ร้าน กู๊ด ฟาร์มาซี                                             PDM-B02     OTC      1											
+      Address  : 23 ถ.หัวหมาก                                        Contact   : คุณนันทณัช ลีฬหาวงศ์											
+               : แขวงหัวหมาก เขตบางกะปิ                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-732-1571                                         Term      :											
+  S0095      ร้าน บ้านยาความหวัง 2                                                      OTC      1											
+      Address  : 243/27 ถ.ลาดพร้าว                                   Contact   :											
+               : แขวงจอมพล เขตจตุจักร                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 091-003-8737                                        Term      :											
+  S0113      ร้าน จัสมิน ฟาร์ม่า                                                        OTC      1											
+      Address  : 23/21 ถ.ประเสริฐมนูกิจ                              Contact   :											
+               : แขวงนวลจันทร์ เขตบึ่งกุ่ม                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  60  days       CR Limit  :          0.00											
+      Tel.     : 086-324-9624                                        Term      :											
+  S0120      ร้าน จุฬาเภสัช                                                 PDM-B02     OTC      1											
+      Address  : 942/25 ถ.พระราม4                                    Contact   : คุณเลอสรวง ธีระเทอดตระกูล											
+               : แขวง สุริยวงศ์ เขต บางรัก                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10500                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-234-1297,02-233-5105                             Term      :											
+  S0136      ร้าน ชัยทิพย์เภสัช                                             PDM-B02     OTC      1											
+      Address  : 209 ถ.พัฒนาการ                                      Contact   : คุณโกสินทร์ มหาสิทธิวัฒน์											
+               : แขวงประเวศ เขตประเวศ                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-116-9748                                         Term      :											
+  S0161      ร้าน ชูชาติเภสัชกร                                             PDM-B02     OTC      1											
+      Address  : 114 ถ.รามคำแหง2                                     Contact   : คุณชูชาติ											
+               : แขวงดอกไม้ เขตประเวศ                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-387-7212,02-047-4793                             Term      :											
+  S0170      บริษัท ซี ดี เอช (ประเทศไทย) จำกัด                             PDM-B02     OTC      1											
+      Address  : 210 ซ.ปรีดีพนมยงค์ 25 ถ.สุขุมวิท 71                 Contact   : คุณสุภัข สภาคกุล											
+               : แขวงพระโขนงเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10110                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-254-7168                                         Term      :											
+  S0171      บริษัท ซี ฟาร์ม่า เซเว่น จำกัด                                             OTC      1											
+      Address  : 15-17 ซ.ตลาดศรีดินแดง ถ.ดินแดง                      Contact   :											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-171-4459                                        Term      :											
+  S0178      ร้าน ฐานยา                                                     PDM-B02     OTC      1											
+      Address  : 4/3 ซ.สุขุมวิท 3(นานาเหนือ) ถ.สุขุมวิท              Contact   : คุณวิชาญ											
+               : แขวงคลองเตยเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10110                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-251-5445                                         Term      :											
+  S0194      บริษัท ดรักส์สแควร์ จำกัด                                                  OTC      1											
+      Address  : ห้องเลขที่ 2048 บี เลขที่55 ถ.ศรีนครินทร์           Contact   :											
+               : แขวงหนองบอน เขตประเวศ                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0196      หสม. ร้านดรั๊กมาร์ท เอส.ซี.บี.                                             OTC      1											
+      Address  : อาคารไทยพาณิชย์ปาร์ค พลาซ่า ชั้นG เลขที่ 9ห้อง3126  Contact   : คุณ ซ้องมาศ											
+               : ถ.รัชดาภิเษก แขวงลาดยาว เขตจตุจักร                  A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-937-9238                                         Term      :											
+  S0205      ร้าน ดีดี ฟาร์มาซี                                             PDM-B02     OTC      1											
+      Address  : 35/2 ถ.สุริยวงศ์                                    Contact   : คุณสุชานันท์ พรานเนื้อ											
+               : แขวงสุริยวงศ์ เขตบางรัก                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10500                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-236-3343                                         Term      :											
+  S0210      ร้าน ด็อกเตอร์ดรักส์พลัส                                       PDM-B02     OTC      1											
+      Address  : 2/6 ถ.ปัญญารามอินทรา                                Contact   : คุณนันทชิด											
+               : แขวงคันนายาว เขตคันนายาว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-508-7139                                         Term      :											
+  S0222       ร้านตำรับยา                                                   PDM-B02     OTC      1											
+      Address  : 18/9 ถนนนาคนิวาส                                    Contact   : คุณชาญชัย											
+               : แขวง.ลาดพร้าว เขตลาดพร้าว                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-932-5919                                         Term      :											
+  S0224      ร้าน ต้นยา                                                     PDM-B02     OTC      1											
+      Address  : 299/156 ซ.เคหะร่มเกล้า31 ถ.ร่มเกล้า                 Contact   : คุณชินภัสสร์											
+               : แขวงคลองสองต้นนุ่น เขตลาดกระบัง                     A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 084-438-2830                                        Term      :											
+  S0233      บริษัท ทรู ฟาร์มาซี จำกัด                                                  OTC      1											
+      Address  : 290/8 ซ.ลาดพร้าว 84                                 Contact   :											
+               : แขวงวังทองหลาง เขตวังทองหลาง                        A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 090-950-9950                                        Term      :											
+  S0328      ร้าน บ้านยาดรักเฮ้าส์                                                      OTC      1											
+      Address  : 128 ซ.ลาดพร้าว 80 ถ.ลาดพร้าว                        Contact   :											
+               : แขวงวังทองหลาง เขตบางกะปิ                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0329      ร้าน บ้านยา                                                                OTC      1											
+      Address  : 761/7 ซ.สุขุมวิท 103 ถ.สุขุมวิท                     Contact   :											
+               : แขวงบางจาก เขตพระโขนง                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         40000                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-628-1240                                        Term      :											
+  S0338      ร้าน บ้านยา 25                                                             OTC      1											
+      Address  : 112/25 ถ.ราษฎร์พัฒนา                                Contact   :											
+               : แขวงสะพานสูง เขตสะพานสูง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-171-6421                                         Term      :											
+  S0346      ร้าน บ้านสวย คอสเมติกส์                                                             1											
+      Address  : 552 ซ.พัฒนาการ1                                     Contact   :											
+               : แขวงบางโพงพาง เขตยานนาวา                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 081-346-5028                                        Term      :											
+  S0393       คุณปาหนัน นาคธน                                                           OTC      1											
+      Address  : 998 ร.พ ปิยะเวท ถ.พระราม9                           Contact   : คุณปาหนัน											
+               : แขวงบางกะปิ เขตห้วยขวาง                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10310                         Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 089-440-8244                                        Term      :											
+  S0397      ร้าน ป๊อป ฟาร์มาซี                                             PDM-B02     OTC      1											
+      Address  : 484 ซ.ลาดพร้าว112(เอี่ยมสมบูรณ์)ถ.ลาดพร้าว          Contact   : คุณมรกต											
+               : แขวงพลับพลา เขตวังทองหลาง                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10310                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 093-565-9363                                        Term      :											
+  S0412      โรงพยาบาล พระมงกุฎเกล้า                                                    OTC      1											
+      Address  : 315  ถ.ราชวิถี                                      Contact   :											
+               : แขวงทุ่งพญาไท เขตราชเทวี                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0419      ร้าน พลเภสัช                                                               OTC      1											
+      Address  : 539/1 ซ.เรวัต 1 ถ.เทพารักษ์                         Contact   :											
+               : ต.สำโรงเหนือ อ.เมือง                                A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0420      ร้าน พหลเภสัช                                                  PDM-B02     OTC      1											
+      Address  : 2321 ถ.พหลโยธิน                                     Contact   : คุณกัญญาวีร์ หะยีดารียอ											
+               : แขวงลาดยาว เขตจตุจักร                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10900                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 086-144-7087                                        Term      :											
+  S0439      ร้าน พีพี ฟาร์มาซี                                                         OTC      1											
+      Address  : 356 ถ.นาคนิวาส                                      Contact   :											
+               : แขวงลาดพร้าว เขตลาดพร้าว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-932-8818                                         Term      :											
+  S0442      ร้าน พี เจ เภสัช                                                           OTC      1											
+      Address  : 80/139/1 ถ.เทพารักษ์                                Contact   :											
+               : ต.บางเมืองใหม่ อ.เมือง                              A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  60  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0443      ร้าน พีเพิลดรัก                                                            OTC      1											
+      Address  : 10/1281 หมู่บ้านสินธานี 1 ม. 1 ถ.สุขาภิบาล 1        Contact   :											
+               : แขวงคลองกุ่ม เขตบึ่งกุ่ม                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-492-9824,02-379-2936                            Term      :											
+  S0454      ร้าน ฟาร์มาแคร์                                                PDM-B02     OTC      1											
+      Address  : 322/360 ซ.รัชดาภิเษก3 ถ.รัชดาภิเษก                  Contact   : คุณกฤศณัฐฎ์											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-641-0157                                         Term      :											
+  S0456      ร้าน ฟาร์มาซี เวิลด์                                                       OTC      1											
+      Address  : 100/1 ซ.สุขุมวิท 4 ถ.สุขุมวิท                       Contact   :											
+               : แขวงคลองเตย เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-572-3636                                        Term      :											
+  S0457      บริษัท ฟาร์มาซีเมดิซีน                                         PDM-B02     OTC      1											
+      Address  : ท็อปซุปเปอร์มาร์เก็ต สาขารามอินทรา 109/9 ม.3        Contact   : คุณตู่											
+               : ถ.รามอินทรา แขวงอนุสาวรีย์ เขตบางเขน                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10220                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-970-5644                                         Term      :											
+  S0462      ร้าน ฟาร์มาเดย์                                                            OTC      1											
+      Address  : 584 ถ.สุขุมวิท                                      Contact   :											
+               : แขวงคลองตัน เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-258-3354                                       Credit    :  90  days       CR Limit  :          0.00											
+  S0463	 :Pharmanet 		            OTC      1								
+ Adress       :    32-32/1 ซ.สุขุมวิท21 อโศก ถ.สุขุมวิท     			Contact   : คุณพัชรินทร์ นิยะโต								
+	แขวงคลองเตยเหนือ เขตคลองเตย		   A/C No.   : 114110          Ship-Via  :								
+	กรุงเทพมหานคร		 Credit    :  90  days       CR Limit  :          0.00								
+   Tel           :   02-260-2444#5			 Term      :								
+  S0465      ร้าน ฟาร์มาแคร์                                                            OTC      1											
+      Address  : 1193 ซ.ลาดพร้าว 94 (ปัญจมิตร) ถ.ลาดพร้าว            Contact   :											
+               : แขวงวังทองหลาง เขตวังทองหลาง                        A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-530-1445                                         Term      :											
+  S0472      ร้าน ฟินิกซ์ฟาร์มาซูติคอล                                      PDM-B02     OTC      1											
+      Address  : 48-50 แฮปปี้แลนด์ ซ.2 ถ.ลาดพร้าว                    Contact   : คุณชาตรี เลาหสถิรวงศ์											
+               : แขวงคลองจั่น เขตบางกะปิ                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-317-7135                                         Term      :											
+  S0485      ร้าน ภานุมาศโอสถ2                                                          OTC      1											
+      Address  : 107/5 ซ.ภาษี2                                       Contact   :											
+               : แขวงคลองตันเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 086-394-0320                                        Term      :											
+  S0489      บริษัท มงกุฎเวชภัณฑ์ จำกัด                                     PDM-B02     OTC      1											
+      Address  : 419/1,3 ถ.ราชวิถี                                   Contact   : คุณศุภรณี สุพรประดิษฐชัย											
+               : แขวงทุ่งพญาไท เขตราชเทวี                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-354-9284-5                                       Term      :											
+  S0500      ร้าน ร้านยามังกร                                                           OTC      1											
+      Address  : 157/12 ม.5 ซ.มังกร-นาคดี ถ.เทพารักษ์                Contact   :											
+               : ต.แพรกษา อ.เมือง                                    A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-157-5279                                        Term      :											
+  S0503      ร้าน ฟาร์มาเดย์                                                            OTC      1											
+      Address  : 584 ถ.สุขุมวิท                                      Contact   :											
+               : แขวงคลองตัน เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-258-3354                                         Term      :											
+  S0520      ร้าน ยากว้าง 2001                                                          OTC      1											
+      Address  : 112/17 ซ.นวลจันทร์ ถ.รามอินทรา 40                   Contact   : คุณจินตนา											
+               : แขวงคลองกุ่ม เขตบึ่งกุ่ม                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-519-3721                                         Term      :											
+  S0531      ร้าน ยาดีเภสัช                                                 PDM-B02     OTC      1             3.00											
+      Address  : 477/3 ซ.สุทธิพร ถ.ประชาสงเคราะห์                    Contact   : คุณวิบูลย์											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 089-123-0199,02-247-6737                            Term      :											
+  S0536      ร้าน ยาพรเจริญ                                                 PDM-B02     OTC      1											
+      Address  : 40 อาคารนัมเบอร์วัน ตึก4 ซ.รามคำแหง2 ซ.21           Contact   : คุณเต้											
+               : ถ.รามคำแหง แขวงดอกไม้ เขตประเวศ                     A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-751-8393                                         Term      :											
+  S0539      ร้าน ยาฟาร์คลินิก                                              PDM-B02     OTC      1											
+      Address  : 5/3 ม.2                                             Contact   : คุณณัฐกานติ์											
+               : ต.ศรีษะจรเข้น้อย อ.บางเสาธง                         A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ         10540                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-4011045                                         Term      :											
+  S0540      ร้าน ยามหานคร                                                  PDM-B02     OTC      1											
+      Address  : 299/9                                               Contact   : คุณจิราวรรณ											
+               : แขวงคลองสองต้นนุ่น เขตลาดกระบัง                     A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-888-1780                                        Term      :											
+  S0541      ร้าน ยามาตรฐาน                                                 PDM-B02     OTC      1											
+      Address  : 27/20 ถ.สุนทรโกษา                                   Contact   : คุณมาโนช เลิศสุทธิรักษ์											
+               : แขวงคลองเตย เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10110                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-249-2648                                         Term      :											
+  S0566      ร้าน ยินดีเภสัช                                                            OTC      1											
+      Address  : 36 ม.12 ซ.รามคำแหง 166 ถ.รามคำแหง                   Contact   :											
+               : แขวงมีนบุรี เขตมีนบุรี                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  60  days       CR Limit  :          0.00											
+      Tel.     : 081-257-5917                                        Term      :											
+  S0575      บริษัท รวมพัฒนสิริ จำกัด                                                   OTC      1											
+      Address  : อาคารเดอะเสรีเซ็นเตอร์ ชั้นที่ จี 61                Contact   :											
+               : ถ.ศรีนครินทร์ แขวงหนองบอน เขตประเวศ                 A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-787-1465 ,089-178-3222                           Term      :											
+  S0576      ร้าน ร้านรวมยา                                                             OTC      1											
+      Address  : 3079/18 ถ.สุขุมวิท                                  Contact   :											
+               : แขวงบางจาก เขตพระโขนง                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 085-226-1389                                        Term      :											
+  S0577      ร้าน รวมยา                                                                 OTC      1											
+      Address  : 159/10 ม.3 ซ.หน้ารร.วัดบางบ่อ                       Contact   :											
+               : แขวงบางบ่อ เขตบางบ่อ                                A/C No.   : 114110          Ship-Via  :											
+               : สมุทรปราการ                                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 083-896-1331                                        Term      :											
+  S0595      ร้าน รัตนาฟาร์มาซี                                                         OTC      1											
+      Address  : 305 ซ.ลาดพร้าว 53 (โชคชัย4)                         Contact   :											
+               : แขวงสะพานสูง เขตวังทองหลาง                          A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 090-970-4681                                        Term      :											
+  S0601      ร้าน รุ่งเรืองเภสัช                                                        OTC      1											
+      Address  : 869/12 ถ.เพชรบุรี                                   Contact   :											
+               : แขวงถนนพญาไท เขตราชเทวี                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 084-005-4872                                        Term      :											
+  S0293      ร้าน นิวเวชภัณฑ์                                                           OTC      1											
+      Address  : 47/4 ซ.ตรอกโรงเรียนเพชรบุรี ถ.เพชรบุรี              Contact   :											
+               : แขวงทุ่งพญาไท เขตราชเทวี                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 086-322-7232                                        Term      :											
+  S0308      ร้าน บิวตี้พลัส                                                            OTC      1											
+      Address  : 58/81 หมู๋บ้านปัญญาเลคโฮม ซ.นิมิตใหม่ 28            Contact   :											
+               : ต.สามวาตะวันออก อ.คลองสามวา                         A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-129-5981                                        Term      :											
+  S0309      ร้าน บิวตี้ไลน์                                                            OTC      1											
+      Address  : 211/39 ม.4                                          Contact   :											
+               : ต.สำโรง อ.พระประแดง                                 A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 089-691-9113                                        Term      :											
+  S0314      คุณ บุญญาพร                                                                OTC      1											
+      Address  : 57 ม. 7                                             Contact   :											
+               : ต.แหลมฟ้าผ่า อ.พระสมุทรเจดีย์                       A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0243      ร้าน ทีเค ฟาร์มาซี 2                                                       OTC      1											
+      Address  : 322/18 ซ.สถานฑูตจีน ถ.อโศก-ดินแดง                   Contact   : นางสาวกษมา บรรจุพันธุนาถ											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 094-118-3212                                        Term      :											
+  S0248      ร้าน ทูว์ไทม์ อาร์เอ็กซ์                                                   OTC      1											
+      Address  : 32 ถ.แฮปปี้แลนด์ 2                                  Contact   :											
+               : แขวงคลองจั่น เขตบางกะปิ                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-378-0858                                         Term      :											
+  S0276      คุณ นพรัตน์  แซ่ลี้                                                        OTC      1											
+      Address  : 148/104 ม.1                                         Contact   :											
+               : ต.เทพารักษ์ อ.เมืองสมุทรปราการ                      A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ         40000                         Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0231      ร้าน ทรัพย์สาครเภสัช                                                       OTC      1											
+      Address  : 794 ถ.สุขุมวิท71                                    Contact   :											
+               : แขวงคลองตันเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0179      ร้าน ณ ร้านยา                                                              OTC      1											
+      Address  : 99/28 ม.4 ซ.มังกร-ขันดี ถ.เทพารักษ์                 Contact   :											
+               : ต.แพรกษาใหม่ อ.เมืองสมุทรปราการ                     A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0183      ร้าน ณภัทราดรัก                                                            OTC      1											
+      Address  : 25/3 ถ.นวมินทร์ ม.7                                 Contact   : คุณกัญณภัทร เอ้อวิริยานุกูล											
+               : แขวงคลองกุ่ม เขตบึงกุ่ม                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-946-7776                                         Term      :											
+  S0185       คุณณัฐพร พันธุ์ชาตรี                                          OFFICE      OTC      1											
+      Address  : 81/203 Noble Reflex พหลโยธิน ซ.7                    Contact   : คุณณัฐพร											
+               : แขวงสามเสนใน เขตพญาไท                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 083-188-1818                                        Term      :											
+  S0209      ร้าน ดีแคร์-ฟาร์มาซี                                                       OTC      1											
+      Address  : 201/ข.(39) ซ.ศูนย์การค้าเยสบางพลี ถ.เทพารักษ์       Contact   :											
+               : ต.บางเสาธง    อ.บางเสาธง                            A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0609      ร้าน ร้อยเอ็ดเภสัช                                             PDM-B02     OTC      1											
+      Address  : 26 ซ.สุขุมวิท 101 ถ.สุขุมวิท                        Contact   : คุณกัลยา											
+               : แขวงบางจาก เขตพระโขนง                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10260                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 099-536-8160                                        Term      :											
+  S0006      ร้าน April 27 Drug and Healthcare                                          OTC      1											
+      Address  : MBK Center, 3rd Floor, Room 3B-20, 444 Phayathai    Contact   : K. Pattana											
+               : Road, Pathumwan, Bangkok                            A/C No.   : 114110          Ship-Via  :											
+               :                       10330                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-611-8160, 02-686-3840                            Term      :											
+  S0019      ร้าน อาร์เอ็กซ์ ฟาร์มาซี                                                   OTC      1											
+      Address  : 104 ถ.สุขุมวิท 4                                    Contact   :											
+               : แขวงคลองเตย เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-251-9868                                         Term      :											
+  S0021      V R PHARM วี.อาร์.ฟาร์ม                                                    OTC      1											
+      Address  : 420/165 ถ.เทพารักษ์ ต.เทพารักษ์                     Contact   :											
+               : อ.เมือง                                             A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  60  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0022      VRPHARM-1 วีอาร์มฟาร์ม สาขาหน้าโรงเรียนอัสสัมชัญ                           OTC      1											
+      Address  : 80/1632 ซ.หมู่บ้านทิพวัล ถ.เทพารักษ์                Contact   :											
+               : ต.เมืองใหม่ อ.เมือง                                 A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0049      ร้าน กิ่งแก้วเภสัช                                                         OTC      1											
+      Address  : 59/14 ม.1                                           Contact   :											
+               : ต.ราชาเทวะ   อ.บางพลี                               A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0052      ร้าน กุ๊กไก่ คอสเมติกส์                                                    OTC      1											
+      Address  : 201/ช หมู่ที่ 1 เยสบางพลี ถ.เทพารักษ์               Contact   :											
+               : แขวงบางเสาธง เขตบางเสาธง                            A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 084-385-6011                                        Term      :											
+  S0107      ร้าน จตุธรรมเภสัช                                                          OTC      1											
+      Address  : 112/1675 เคหะชุมชนบางนา ถ.บางนา-ตราด                Contact   :											
+               : แขวง บางนา   เขต พระโขนง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0129      ร้าน ชลลดาเภสัช                                                            OTC      1											
+      Address  : 78/288 ซ.คู้บอน27 แยก29 ถ.รามอินทรา                 Contact   :											
+               : แขวงท่าแร้ง เขตบางเขน                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-752-0945                                        Term      :											
+  S0143      ร้าน ชัยศิริเภสัช                                                          OTC      1											
+      Address  : 440 ซ.พิบูลย์อุปถัมภ์ ถ.สุทธิสาร                    Contact   :											
+               : แขวงสามเสนนอก เขตห้วยขวาง                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-274-7757                                         Term      :											
+  S0614      ร้าน ลาดปลาเค้าฟาร์มาซี                                        PDM-B02     OTC      1											
+      Address  : 6/224 ถ.ลาดปลาเค้า ม.8                              Contact   : คุณสุไพ กาญจนสุวรรณ์											
+               : แขวงจรเข้บัว เขตลาดพร้าว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 086-980-0747                                        Term      :											
+  S0640      บริษัท เซ็นทรัล วัตสัน จำกัด                                               OTC      1											
+      Address  : 3388/23-24 อาคารสิรินรัตน์ ชั้น 8 ถ.พระราม 4        Contact   :											
+               : แขวงคลองตัน เขตคลองตัน                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 02-665-2000                                         Term      :											
+  S0645       คุณวิชาญ จันทานานนท์                                          OFFICE      OTC      1											
+      Address  : 41 ซ.27 (เพิ่มสิน) ถ.ประชาสงเคราะห์                 Contact   : คุณวิชาญ											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     : 083-058-7717                                        Term      :											
+  S0648      ร้าน วินเภสัช                                                              OTC      1											
+      Address  : 1433 ถ.เจริญกรุง                                    Contact   :											
+               : แขวงสีลม เขตบางรัก                                  A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-237-1399                                         Term      :											
+  S0665      ร้าน ศรียา อ.ต.ก.                                                          OTC      1											
+      Address  : 101 ถ.กำแพงเพชร                                     Contact   :											
+               : แขวงลาดยาว เขตจตุจักร                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-618-5987                                         Term      :											
+  S0666      ร้าน ศรีรัตน์ฟาร์มาซี                                          PDM-B02     OTC      1											
+      Address  : 1511/1 ถ.พหลโยธิน                                   Contact   : คุณพัชรี วรสุวัฒน์											
+               : แขวงสามเสนใน เขตพญาไท                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-618-3049                                         Term      :											
+  S0672      ร้าน ศศิกุลเภสัช                                               PDM-B02     OTC      1											
+      Address  : 202 ถ.รามคำแหง                                      Contact   : คุณธัญญ์ฐิตา ศสิกุลวัฒน์											
+               : แขวงหัวหมาก เขตบางกะปิ                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-718-4977                                         Term      :											
+  S0688      ร้าน ศุภราเภสัชกร                                              PDM-B02     OTC      1											
+      Address  : 1,3/1-4 ถ.พญาไท                                     Contact   : คุณศุภรา ช้างอยู่											
+               : แขวงถนนพญาไท เขตราชเทวี                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10400                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 094-156-4697                                        Term      :											
+  S0725      ร้าน สหกรณ์เภสัช                                               PDM-B02     OTC      1											
+      Address  : 269 ถ.นาคนิวาส                                      Contact   :											
+               : แขวงลาดพร้าว เขตลาดพร้าว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-530-1801                                         Term      :											
+  S0727      ร้าน สหภัณฑ์ เอเชีย อาหารเสริม                                             OTC      1											
+      Address  : 32/9 ถ.เทศบาลรังสฤษฏ์เหนือ                          Contact   : คุณตุ้ม											
+               : แขวงลาดยาว เขตจตุจักร                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 084-438-4365                                        Term      :											
+  S0728      ร้าน หมอยา สหกรณ์                                              PDM-B02     OTC      1											
+      Address  : 1865 หมู่บ้าน สหกรณ์ ถ.เสรีไทย                      Contact   : คุณวรัษยา เกรียรติภักดีกุล											
+               : แขวงคลองกุ่ม เขตบึงกุ่ม                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-731-5642                                        Term      :											
+  S0729      ร้าน สหมิตร ฟาร์มาซี                                           PDM-B02     OTC      1											
+      Address  : 50 ห้องเลขที่A7อาคารที่จอดรถประตูงามวงศ์วาน1        Contact   : คุณเกสิณี คูรัตน์ชัชวาล											
+               : ม.เกษตรศาสตร์วิทยาเขตบางเขน ถ.งามวงศ์วานแขวงลาดยาว  A/C No.   : 114110          Ship-Via  :											
+               : เขตจตุจักร กรุงเทพมหาน10900                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-909-2505                                        Term      :											
+  S0752      ร้าน สุขศิริเวชภัณฑ์                                                       OTC      1											
+      Address  : 25/19 ม.7 ซ.พูลเจริญคอนโดฯ ถ.บางนา-ตราด             Contact   :											
+               : ต.บางโฉลง อ.บางพลี                                  A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 092-690-6024                                        Term      :											
+  S0754      ร้าน สุขุมวิทดรั๊กสโตร์                                                    OTC      1											
+      Address  : 87 ซ.สุขุมวิท 5 ถ.สุขุมวิท                          Contact   :											
+               : แขวงคลองเตย เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-254-2247                                         Term      :											
+  S0765     : บ้วนหยูฟาร์มา			 PDM-B04     OTC      1								
+        Address  :	 163-165 ถ.สีลม		 Contact   : 								
+	แขวงสีลม เขตบางรัก		 A/C No.   : 114110          Ship-Via  :								
+	กรุงเทพมหานคร  10500		   Credit    :  90  days       CR Limit  :          0.00								
+    Tel         :	02-233-2709		  Term      :								
+  S0777      ร้าน ส่งเจริญฟาร์มาซี                                          PDM-B02     OTC      1											
+      Address  : 189/16-17 ลาดพร้าว ซ.1                              Contact   : คุณถาวร ส่งเจริญ											
+               : แขวงจอมพล เขตจตุจักร                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10900                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-513-3718                                         Term      :											
+  S0787       ร้านยาหน้าอำเภอ                                                           OTC      1											
+      Address  : 6 ถ.นครเขื่อนขันธ์                                  Contact   : คุณตุน											
+               : แขวงตลาด เขตพระประแดง                               A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-818-5130                                         Term      :											
+  S0788      ร้าน ร้านยาหน้าอำเภอ                                                       OTC      1											
+      Address  : 6 ถ.นครเขื่อนขันธ์                                  Contact   :											
+               : แขวงตลาด เขตพระประแดง                               A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-818-5130                                         Term      :											
+  S0793      ร้าน หมอยา                                                     PDM-B02              1											
+      Address  : 789 ถ.สุทธิสาร                                      Contact   : คุณราชา เทืองประสิทธิ์											
+               : แขวงดินแดง เขตห้วยขวาง                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-275-2866,02-693-6139                             Term      :											
+  S0802      ร้าน ห้องยาเภสัช 9                                                         OTC      1											
+      Address  : 80/3 ม.8 ซ.มีสทีน ถ.ราษฎร์พัฒนา                     Contact   :											
+               : แขวงสะพานสูง เขตสะพานสูง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  60  days       CR Limit  :          0.00											
+      Tel.     : 099-354-8777                                        Term      :											
+  S0803      ร้าน ห้องยาเภสัชกร                                             PDM-B02     OTC      1											
+      Address  : 496 ถ.ลาดพร้าว-วังหิน36                             Contact   : คุณชาญวิวัธน์ วังมณีรัตน์											
+               : แขวงลาดพร้าว เขตลาดพร้าว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 080-282-0330                                        Term      :											
+  S0830      ร้าน อาทิตย์เภสัช                                              PDM-B02     OTC      1											
+      Address  : 545/5 ถ.หลวงแพ่ง                                    Contact   : คุณอาทิตย์											
+               :  แขวงทับยาว เขตลาดกระบัง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :  086-669-1118,086-056-7222                          Term      :											
+  S0835      ร้าน อาร์เอ็กซ์ ฟาร์มาซี                                                   OTC      1											
+      Address  : 104 ถ.สุขุมวิท 4                                    Contact   :											
+               : แขวงคลองเตย เขตคลองเตย                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-251-9868                                         Term      :											
+  S0837      บริษัท อำพล เภสัชกรรม จำกัด                                    PDM-B04     OTC      1											
+      Address  : 120 ม.3 อาคารรัฐประศาสนภักดีห้องเลขที่ บีเอ็ม1-058  Contact   : คุณอำพล หุดากร											
+               : แขวงทุ่งสองห้อง เขตหลักสี่                          A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10210                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-143-8995,081-613-8693                            Term      :											
+  S0832      ร้าน อารยะเภสัชสำโรง                                                       OTC      1											
+      Address  : 999/83 ม.1 ถ.สุขุมวิท                               Contact   :											
+               : ต.สำโรงเหนือ อ.เมืองสมุทรปราการ                     A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-756-9159                                         Term      :											
+  S0844      ร้าน อีโค่-ดรักส์                                              PDM-B02     OTC      1											
+      Address  : 95 ถ.พัฒนาการ                                       Contact   : คุณจูน											
+               : แขวงประเวศ เขตประเวศ                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-116-7713                                         Term      :											
+ S0875          :      เจ เอส ดรักส์สโตร์			  PDM -B04       OTC    1								
+     Adress     :	171 ถ.สุขุมวิท		Contact   :								
+	แขวงคลองเตยเหนือ  เขตวัฒนา		A/C No.         Ship -Via								
+	กทม.       10110		Credit    :  30  days       CR Limit  :          0.00								
+	โทร 080-558-0055		         Term   :								
+  S0879      หจก. เซฟ แอนด์ เซฟ  ฟาร์มาซี                                               OTC      1											
+      Address  : 168 ถ.ศรีนครินทร์                                   Contact   :											
+               : แขวงหนองบอน เขตประเวศ                               A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 00-255-6696                                         Term      :											
+  S0893      ร้าน เบญฟาร์มาซี                                               PDM-B02              1											
+      Address  : 971/2-4 ถ.พหลโยธิน                                  Contact   : คุณกุณนที เบญจวณิชกุล											
+               : แขวงสามเสนใน เขตพญาไท                               A/C No.   : 114110          Ship-Via  :											
+               : กรุเทพ                                              Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-828-3082                                        Term      :											
+  S0895      บริษัท เบลซ เอเชีย จำกัด                                       PDM-B02     OTC      1											
+      Address  : 415 ถ.สุขุมวิท                                      Contact   : คุณนาโอกิ											
+               : แขวงคลองเตยเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10110                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-258-8283                                         Term      :											
+  S0897      ร้าน เบ็ทเทอร์ ดรัก                                                        OTC      1											
+      Address  : 15/29 ห้องภายในท๊อปส์ ซูเปอร์มาร์เก็ต               Contact   :											
+               : ถ.อ่อนนุช ม.2 แขวงลาดกระบัง เขตลาดกระบัง            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-840-8189                                        Term      :											
+  S0898      ร้าน เปรมสินเภสัช                                              PDM-B02     OTC      1											
+      Address  : 62 ถ.อุดมสุข                                        Contact   : คุณณิฌา											
+               : แขวงบางนา เขตบางนา                                  A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10260                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-393-5978                                         Term      :											
+  S0903      ร้าน เพชรรัตน์ เมดิซีน                                                     OTC      1											
+      Address  : 1051/1 ถ.เทพารักษ์                                  Contact   :											
+               : ต.เทพารักษ์    อ.เมือง                              A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0914      ร้าน เพื่อนยา                                                  PDM-B04     OTC      1											
+      Address  : 2345/1 ถ.รามคำแหง                                   Contact   : คุณเอ๋											
+               : แขวงหัวหมาก เขตบางกะปิ                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-261-9408                                        Term      :											
+  S0918      ร้าน เฟิทส์แคร์                                                PDM-B02     OTC      1											
+      Address  : 179 ซ.กรุงเทพกรีฑา ถ.กรุงเทพกรีฑา                   Contact   :											
+               : แขวงหัวหมากใต้ เขตบางกะปิ                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-789-4358                                        Term      :											
+  S0919      บริษัท เฟิสท์ เฮ็ลธ ฟู้ด จำกัด                                 PDM-B02     OTC      1											
+      Address  : 2 ซ.ศูนย์วิจัย ถ.เพชรบุรีตัดใหม่                    Contact   :											
+               : แขวงบางกะปิ เขตห้วยขวาง                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-731-7000ต่อ20142                                 Term      :											
+  S0920      บริษัท เฟิสท์ เฮ็ลธ ฟู้ด จำกัด                                             OTC      1											
+      Address  : 488 ถ.ศรีนครินทร์                                   Contact   :											
+               : แขวงสวนหลวง เขตสวนหลวง                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-731-7000ต่อ20142                                 Term      :											
+  S0921      บริษัท เฟิสท์ เฮ็ลธ ฟู้ด จำกัด                                 PDM-B02     OTC      1											
+      Address  : 133 ซ.สุขุมวิท 49 ถ.สุขุมวิท                        Contact   :											
+               : แขวงคลองตันเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-731-7000ต่อ20142                                 Term      :											
+  S0935      บริษัท เมดิค บี เวลล์ จำกัด                                    PDM-B02     OTC      1											
+      Address  : 243/11 ถ.ลาดพร้าว                                   Contact   : คุณยศนันท์ กอบพึ่งตน											
+               : แขวงจอมพล เขตจตุจักร                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10900                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-888-6857                                        Term      :											
+  S0938      บริษัท เมดไลฟ์ พลัส จำกัด                                      PDM-B02     OTC      1											
+      Address  : 249 อาคาร24เฮ้าส์ ชั้น1 ห้องเลขที่111 ซ.โยธินพัฒนา  Contact   : คุณทิพย์นารี											
+               : แขวงคลองจั่น เขตบางกะปิ                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 084-699-4599                                        Term      :											
+  S0948      ร้าน เมืองไทยฟาร์มาซี                                                      OTC      1											
+      Address  : 32/1 ซ.อุดมสุข ถ.สุทธิสาร                           Contact   :											
+               : แขวงห้วยขวาง เขตห้วยขวาง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-277-5856                                         Term      :											
+  S0949       ร้านยา เมเจอร์ ดรัก                                           PDM-B04     OTC      1											
+      Address  : 2008/11 ถ.พหลโยธิน                                  Contact   : คุณชญาธร นวธนกุลธร											
+               : แขวงเสนานิคม เขตจตุจักร                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10900                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 082-455-4282                                        Term      :											
+  S0981      ร้าน บ้านยาเอบีซี                                                          OTC      1											
+      Address  : 999/64                                              Contact   :											
+               : ต.สำโรงเหนือ อ.เมือง                                A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S0987      ร้าน ยาเอ็นที                                                              OTC      1											
+      Address  : 280/1 ซ.สันนิบาตเทศบาล                              Contact   :											
+               : แขวงจันทรเกษม เขตจตุจักร                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-824-2224                                        Term      :											
+  S0991      ร้าน เอ็มพี ฟาร์ม่า                                                        OTC      1											
+      Address  : 58 ห้องL 2 ซ.รัชดาภิเษก 4                           Contact   :											
+               : แขวงห้วยขวาง เขตห้วยขวาง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 081-533-1185                                        Term      :											
+  S0994      หสม. ร้านขายยาเฮลท์มี                                          PDM-B02     OTC      1											
+      Address  : 62/6 ถ.ประชาสงเคราะห์                               Contact   : คุณกรกมล											
+               : แขวงดินแดง เขตดินแดง                                A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหาคร          10400                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-248-6590                                         Term      :											
+  S0995      บริษัท เฮลธ์แอนด์พิลส์ จำกัด                                   PDM-B02     OTC      1											
+      Address  : 128/103 ซ.รามคำแหง 24 ถ.รามคำแหง                    Contact   : คุณเกศสมร เรืองสุขศิลป์											
+               : แขวงหัวหมาก เขตบางกะปิ                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-719-2558                                         Term      :											
+  S0998      บริษัท แค๊ปซูล ดรัก จำกัด                                                           1											
+      Address  : 430 ซ.พิบูลย์อุปถัมภ์ ถ.สุทธิสาร                    Contact   :											
+               : แขวง สามเสนนอก เขต ห้วยขวาง                         A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-933-3459                                         Term      :											
+  S1004      บริษัท แฟมิลี่ แคร์ ฟาร์มาซี จำกัด                                         OTC      1											
+      Address  : 498/1 ถ.สุขุมวิท                                    Contact   :											
+               : ต.ปากน้ำ อ.เมือง                                    A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S1005      ร้าน แฟมิลี่ดรักส์                                             PDM-B02     OTC      1											
+      Address  : 228/24 ถ.ศรีนครินทร์                                Contact   : คุณจิราวรรณ											
+               : ต.บางเมือง อ.เมืองสมุทรปราการ                       A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ         10270                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-109-6919                                        Term      :											
+  S1006      ร้าน แฟมิลี่ ดรัก                                              PDM-B02     OTC      1											
+      Address  : 26,26/1ห้อง136ชั้น1เอสเค อพาร์ทเม้นท์ ซ.รามคำแหง53  Contact   : คุณรุ่งทิวา วรรณคุณ											
+               : ถ.รามคำแหง แขวงวังทองหลาง เขต วังทองหลาง            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10310                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-935-2319,084-115-2799                            Term      :											
+  S1007      ร้าน แฟมิลี่ ฟาร์มาซี                                          PDM-B02     OTC      1											
+      Address  : N8-10 อยู่ในสถานีรถไฟฟ้า บีทีเอส สถานีหมอชิต        Contact   : คุณธนญ วงศ์สัมมาชีพ											
+               : ถ.พหลโยธิน แขวงจอมพล เขต จตุจักร                    A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10900                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 095-649-0542                                        Term      :											
+  S1008      ร้าน แฟมิลี่ดรักส์                                             PDM-B02     OTC      1											
+      Address  : 228/24 ถ.ศรีนครินทร์                                Contact   : คุณจิราวรรณ											
+               : ต.บางเมือง อ.เมืองสมุทรปราการ                       A/C No.   : 114110          Ship-Via  :											
+               : จ.สมุทรปราการ         10270                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 089-109-6919                                        Term      :											
+  S1010      ร้าน ยาแมกซ์เวลล์                                              PDM-B02     OTC      1											
+      Address  : 121/14 ห้อง A2-A3 ซ.รามคำแหง ถ.รามคำแหง             Contact   : คุณศิริญญา											
+               : แขวงสะพานสูง เขตสะพานสูง                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10250                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 086-521-6999                                        Term      :											
+  S1019      หจก. แสงธรรมโอสถ                                                           OTC      1											
+      Address  : 150 ถ.สุขุมวิท 55                                   Contact   :											
+               : แขวงคลองตันเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-400-4847                                        Term      :											
+  S1024      ร้าน แอลล์.บี. ฟาร์มาซี                                                    OTC      1											
+      Address  : 111 ถ.สุขุมวิท                                      Contact   :											
+               : แขวงคลองเตยเหนือ เขตวัฒนา                           A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-252-8576                                         Term      :											
+  S1025      บริษัท แอลเอฟ โลจิสติกส์ (ประเทศไทย) จำกัด                     PDM-B04     OTC      1											
+      Address  : 518/5 อาคารมณียาเซ็นเตอร์ ชั้น 11 ถ.เพลินจิต        Contact   :											
+               : แขวงลุมพินี เขตปทุมวัน                              A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :   0  days       CR Limit  :          0.00											
+      Tel.     :                                                     Term      :											
+  S1027      ร้าน ยาแฮปปี้ ดรัก                                             PDM-B02     OTC      1											
+      Address  : ซ.ลาดกระบัง1ก/4 251 ซ.อ่อนนุช ถ.สุขุมวิท77 ม.7      Contact   : คุณสงกรานต์											
+               : แขวงลาดกระบัง เขตลาดกระบัง                          A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-329-1853,094-551-1061                            Term      :											
+  S1028      ร้าน ร้านขายยาแฮปปี้แลนด์เภสัช                                             OTC      1											
+      Address  : 58-60 ซ.ศูนย์การค้าแฮปปี้แลนด์ 1                    Contact   :											
+               : แขวงคลองจั่น เขตบางกะปิ                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  90  days       CR Limit  :          0.00											
+      Tel.     : 02-377-1696                                         Term      :											
+  S1064      ร้าน ไปรยาเภสัช                                                PDM-B02     OTC      1											
+      Address  : 1209 ถ.ลาดกระบัง                                    Contact   : คุณศิริรัตน์											
+               : แขวงลาดกระบัง เขตกระบัง                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 02-737-0907,089-225-0352                            Term      :											
+  S1074      ร้าน ร้านยาไอแคร์                                                          OTC      1											
+      Address  : 372 ซ.เสนานิคม ถ.พหลโยธิน                           Contact   :											
+               : แขวงลาดพร้าว เขตลาดพร้าว                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร                                       Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 095-607-6522                                        Term      :											
+  S1098      ร้าน เกรดเอเภสัช                                               PDM-B02     OTC      1											
+      Address  : 46/110 ถ.นวลจันทร์                                  Contact   : คุณสุดา											
+               : แขวงคลองกุ่ม เขตบึงกุ่ม                             A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10230                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 085-990-4422,081-667-2055                           Term      :											
+
+ S1123        : ยาสดใส                                               PDM-Office     OTC      1									
+ Adress     : 	56/14 ถ.รัชดาภิเษก 	Contact   : คุณธำรงค์									
+               แขวงห้วยขวาง เขตห้วยขวาง	 A/C No.   : 114110          Ship-Via  :									
+               กรุงเทพมหานคร         10310	Credit    : 30  days       CR Limit  :          0.00									
+  Tel.          :	087-591-6552	 Term      :									
+S1124         : S1124	ดีแคร์ ฟาร์มาซี 2	 PDM-S03     OTC      1									
+Adress        :	 616/1 ม.2	Contact   : คุณเธียร									
+	ต.อ่าวนาง อ.เมืองแขวงห้วยขวาง	   A/C No.   : 114110          Ship-Via  :									
+	เขตห้วยขวาง จ.กระบี่       81000	   Credit    :  30  days       CR Limit  :          0.00									
+Tel          :	081-787-4580	      Term      :
+
+  S1124      ร้าน ดีแคร์ ฟาร์มาซี 2                                         PDM-S03          90   1                       0.00
+                616/1 ม.2 ต.อ่าวนาง อ.เมืองแขวงห้วยขวาง เขตห้วยขวาง                                    114110
+                     081-787-4580                             คุณเธียร
+									
+  S1125       นางสาว นงราม จันทเวช                                          PDM-B04     OTC      1											
+      Address  : 777 ถ.นวมินทร์                                      Contact   : คุณแพร											
+               : แขวงคลองจั่น เขตบางกระปิ                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10240                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 086-321-5777                                        Term      :											
+  S1143       คุณจันวิภา เลขะกุล                                                        OTC      1											
+      Address  : 61 ซ.แสนสบาย 3 ถ.พระราม 4                           Contact   : คุณหมู											
+               : แขวงคลองตัน เขต คลลองเตย                            A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10110                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 081-488-7776                                        Term      :											
+  S1183      ร้าน เรือนยาร่มเกล้า                                           PDM-B05     OTC      1											
+      Address  : 126/13 ถ.เคหะร่มเกล้า แขวงคลองสองต้นนุ่น            Contact   : คุณพัชรี											
+               : เขตลาดกระบัง                                        A/C No.   : 114110          Ship-Via  :											
+               : กรุงเทพมหานคร         10520                         Credit    :  30  days       CR Limit  :          0.00											
+      Tel.     : 062-624-4022                                        Term      :											
